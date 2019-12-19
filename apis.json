@@ -1,0 +1,64 @@
+{
+    "name": "GeoRanker",
+    "description": "<p>This website is a technical reference for developers that are interested to utilize the GeoRanker API. All content and documentation is created by the developers GeoRanker team. Our API enables developers to make use of all functionalities available on GeoRanker.com<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/GeoRanker-logo.png",
+    "tags": [
+        "api provider",
+        "geo",
+        "georanking",
+        "georankings",
+        "have api",
+        "localrankchecker",
+        "localseo",
+        "localserp",
+        "ranktracker",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/georanker\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GeoRanker",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/GeoRanker-logo.png",
+            "humanURL": "http:\/\/georanker.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/georanker-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/georanker-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.georanker.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/apidocs.georanker.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/georanker"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/georanker"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/georanker.com"
+        }
+    ]
+}
